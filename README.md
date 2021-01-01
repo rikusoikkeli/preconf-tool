@@ -4,8 +4,8 @@ WHAT DOES THE CODE DO:
 
 This project actually comprises three work-related Python projects which I eventually packed into one graphical user interface.
 
-First, I just wanted to automate away the tedious process of converting the configuration data of our network devices into a format 
-read by the TTL scripting language. So when our associates send us new configurations, the process of implementing them into our 
+First, I wanted to automate away the tedious process of converting configuration data of our network devices into a format read 
+by the TTL scripting language. So when our associates send us new configurations, the process of implementing them into our 
 scripts becomes super fast.
 
 Second, my supervisor voiced the need for him to know, in advance, how much work (in man-hours) our unit would have in a given day. 
